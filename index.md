@@ -7,6 +7,17 @@
 4. Studentenkonto (PC und Android/iOS/Windows Phone)
 5. Elternteil Konto (PC und Android/iOS/Windows Phone)
 
+## Setup Vorgang
+
+Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die Konten per Postman von mir persönlich angelegt.
+
+1. Name der Schule und die Stadt werden eingetragen, sowie der "creator key", der nötig ist um im Server ein Konto erstellen zu können.
+   Zu dem Schlüssel habe nur ich Zugang. Bei POST an Server wird der Schlüssel gehasht.
+
+    1.1 Aus den Parametern **Schule**, **Stadt** wird ein Adminkonto, Admin Password, Admin Wiederherstellungsschlüssel und Planerkonto         generiert.
+```
+![Image](https://raw.githubusercontent.com/ClassHero/docs/master/Register.png)
+```
 
 
 You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
