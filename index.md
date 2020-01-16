@@ -16,7 +16,7 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
 
     1.1 Aus den Parametern **Schule**, **Stadt** wird ein Adminkonto, Admin Password, Admin Wiederherstellungsschlüssel und Planerkonto         generiert.
 ```
-![Image](https://raw.githubusercontent.com/ClassHero/docs/master/Register.png)
+[Image](Register.png)
 ```
 
 
