@@ -14,7 +14,8 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
 1. Name der Schule und die Stadt werden eingetragen, sowie der "creator key", der nötig ist um im Server ein Konto erstellen zu können.
    Zu dem Schlüssel habe nur ich Zugang. Bei POST an Server wird der Schlüssel gehasht.
 
-    1.1 Aus den Parametern **Schule**, **Stadt** wird ein Adminkonto, Admin Password, Admin Wiederherstellungsschlüssel und Planerkonto         generiert. Die Anmelde Namen haben immer den selben Format **<schule>.<stadt>.<kontoTyp>.<zufällige 3-stellige Zahl>**. Schule            und Stadt werden automatisch abgekürzt.
+    1.1 Aus den Parametern **Schule**, **Stadt** wird ein Adminkonto, Admin Password, Admin Wiederherstellungsschlüssel und Planerkonto         generiert. Die Anmelde Namen haben immer den selben Format 
+         **<schule>.<stadt>.<kontoTyp>.<zufällige 3-stellige Zahl>**. Schule und Stadt werden automatisch abgekürzt (Friedrich-                 List-Schule wird zu fls, Kassel wird zu ksl).
     
     ![RegisterAccount](Register.png)
 
