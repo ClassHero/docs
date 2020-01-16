@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## ClassHero docs
 
-<link rel="shortcut icon" type="image/x-icon" href="large_sized_logo.svg">
+# Kontoarten
+1. Adminkonto (PC-only)
+2. Planerkonto (PC-only)
+3. Lehrerkonto (PC und Android/iOS/Windows Phone)
+4. Studentenkonto (PC und Android/iOS/Windows Phone)
+5. Elternteil Konto (PC und Android/iOS/Windows Phone)
+
+
 
 You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
