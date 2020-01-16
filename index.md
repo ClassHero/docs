@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<link rel="shortcut icon" type="image/x-icon" href="large_sized_logo.svg">
+
 You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
