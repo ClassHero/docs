@@ -7,7 +7,7 @@
 4. Studentenkonto (PC und Android/iOS/Windows Phone)
 5. Elternteil Konto (PC und Android/iOS/Windows Phone)
 
-## Setup Vorgang
+## Anlegung einer Schule ins System
 
 Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die Konten per Postman von mir persönlich angelegt.
 
