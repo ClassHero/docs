@@ -15,7 +15,8 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
    Zu dem Schlüssel habe nur ich Zugang. Bei POST an Server wird der Schlüssel gehasht.
 
     1.1 Aus den Parametern **Schule**, **Stadt** wird ein Adminkonto, Admin Password, Admin Wiederherstellungsschlüssel und Planerkonto         generiert. Alle Anmeldenamen haben das Format: **{Schule}**.**{Stadt}**.**{Konto Typ}**.**{Zufällige 3-stellige Zahl}**. 
-        Schule und Stadt werden für den Schulnamen automatisch abgekürzt (Friedrich-List-Schule wird zu fls, Kassel wird zu ksl).
+        
+    1.2 Schule und Stadt werden für den Anmeldenamen automatisch abgekürzt (Friedrich-List-Schule wird zu fls, Kassel wird zu ksl).
     
     ![RegisterAccount](Register.png)
 
