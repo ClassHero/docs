@@ -15,6 +15,8 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
    Zu dem Schlüssel habe nur ich Zugang. Bei POST an Server wird der Schlüssel gehasht.
 
     1.1 Aus den Parametern **Schule**, **Stadt** wird ein Adminkonto, Admin Password, Admin Wiederherstellungsschlüssel und Planerkonto         generiert.
+    
+    ![RegisterAccount](Register.png)
 ```
 ![RegisterAccount](Register.png)
 ```
