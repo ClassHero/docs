@@ -24,7 +24,7 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
 
 # Login
 
-   ![Login](Mix.png)
+   ![Login](Form.png)
 
 You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
