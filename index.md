@@ -46,6 +46,8 @@ Beinhaltet 2 Komponenten:
    
    **B)**
    
+   
+   
 # Planerbereich
 
 Beinhaltet 4 Komponenten:
