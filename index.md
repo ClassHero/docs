@@ -29,10 +29,10 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
 # Adminbereich
 
 Beinhaltet 2 Komponenten: 
-   A) Lehrerverwaltung
-   B) Klassenverwaltung
+   **A)** Lehrerverwaltung
+   **B)** Klassenverwaltung
    
-   A) 
+   **A)** 
 
    1.0 Hier werden Lehrerkonten angelegt mit den Parametern (Vorname, Nachname) und bearbeitet.
 
@@ -44,40 +44,21 @@ Beinhaltet 2 Komponenten:
 
    ![Lehrerverwaltung](Subjects.png)
    
+   **B)**
+   
+# Planerbereich
 
+Beinhaltet 4 Komponenten:
+   A) Stunden Dauer Verwaltung
+   B) Raumverwaltung
+      
+      
+   A)
+      Hier trägt der Planer die Stunden Zeiten ein, i.e. die erste Schulstunde beginnt um z. B. 08:00 und endet zu 08:45 usw.
+      
+      [Image]
 
-You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+   B) 
+      Hier werden alle Räume eingetragen die zum Unterricht verfügbar sind und haben eine Standard Bezeichnung _leer_ (normaler Raum),         oder der Planer kann spezielle Bezeichnungen erstellen, wie z. B. "PC Raum", und kann es an Räume befestigen.
+   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClassHero/docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
