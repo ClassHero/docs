@@ -25,6 +25,26 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
 # Login
 
    ![Login](Form.png)
+   
+# Adminbereich
+
+Beinhaltet 2 Komponenten: 
+   A) Lehrerverwaltung
+   B) Klassenverwaltung
+   
+   A) 
+
+   1.0 Hier werden Lehrerkonten angelegt mit den Parametern (Vorname, Nachname) und bearbeitet.
+
+   ![Lehrerverwaltung](AddTeachers.png)
+   
+   1.1 Hier kann man für Lehrer Fächer anlegen.
+   
+   1.2. **Keine Klasse** bedeutet zurzeit, dass der Lehrer kein Klassenlehrer ist.
+
+   ![Lehrerverwaltung](Subjects.png)
+   
+
 
 You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
