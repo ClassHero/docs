@@ -7,7 +7,7 @@
 4. Studentenkonto (PC und Android/iOS/Windows Phone)
 5. Elternteil Konto (PC und Android/iOS/Windows Phone)
 
-## Anlegung einer Schule ins System
+# Anlegung einer Schule ins System
 
 Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die Konten per Postman von mir persönlich angelegt.
 
@@ -22,6 +22,7 @@ Um komplette Kontrolle und Sicherheit der Konten und Seite zu haben, werden die 
     
     ![RegisterAccount](Register.png)
 
+# Login
 
 You can use the [editor on GitHub](https://github.com/ClassHero/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
