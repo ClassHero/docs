@@ -161,4 +161,6 @@ Beinhaltet 5 Komponenten:
 
    Lehrer bekommen Benachritigungen über alle Stundenplan Änderungen und Vertretungen, Entschuldigungen, Terminanfragen.
    
-   Schüler bekommen Benachritigungen über alle Stundenplan Änderungen und Vertretungen, Noten.
+   Schüler bekommen Benachritigungen über alle Stundenplan Änderungen und Vertretungen, sowie auch Noten.
+   
+   Eltern bekommen periodische Benachritigungen über die Noten des Schülers.
