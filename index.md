@@ -60,11 +60,12 @@ Beinhaltet 2 Komponenten:
    
 # Planerbereich
 
-Beinhaltet 4 Komponenten:
+Beinhaltet 5 Komponenten:
    A) Stunden Dauer Verwaltung
    B) Raumverwaltung
    C) Statischer Stundenplan
    D) Vertretungen
+   E) Lehreranwesenheit
       
       
    A)
@@ -83,4 +84,45 @@ Beinhaltet 4 Komponenten:
    ![StaticSchedule](StaticSchedule.png)
 
    D)
+      Ich hoffe das Bild erklärt die Vertretungen. In der 2. Arten Spalte zeigt es welche inputs deaktiviert sind. Bei der Art                 "Betreuung" wird die Ersatzlehrer auswahl nur auf Lehrer bezogen, in jedem anderen Fall wählt man eigentlich Fächer (+automatisch       Fachlehrer).
       
+   E)
+      Dieses Bild sollte auch selbsterklärend sein. Man wählt drück bei einem Lehrer auf das z. B. Montag kästchen, und der Rest wird         Rechts angezeigt um die Anwesenheit an dem Tag zu verwalten. Diese Anwesenheit dient dazu um nicht alle Vertretungen manuell bei         bereich D eintragen zu müssen.
+      
+# Lehrerbereich
+
+   Beinhaltet 3 Komponenten:
+   A) Verwaltung der Fächer
+   B) Klassenstundenpläne
+   C) Lehrerstundenplan
+   D) Verfügbare Räume
+   E) Lehreranwesenheit
+   
+   A) Verwaltung der Fächer
+   
+      In diesem Bereich hat Lehrer eine Übersicht über alle Klassen die er Unterrichtet.
+      
+      auf Bild:
+      
+      g) Die jetzige Stunde wird per Stundenplan automatisch ausgewählt, kann aber manuell ausgewählt werden.
+      a) Noteneintragung.
+      b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
+      c) Pluse/Minuse.
+      d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert              werden.
+      e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle                  Studenten von der Klasse eingefügt werden.
+      f) Verspätungen.
+      h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei          der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen.
+      
+      Der letze Bereich dient dazu eine Übersicht über Studenten in dem Fach zu sehen. 
+      Der Klassenlehrer kann von seiner Klasse alles sehen, wie auch Gesamtergebnisse aller Fächer.
+      
+  B) Hier kann der Lehrer, den Stundenplan von jeder Klasse sehen, den statischen, wie auch den dynamischen. Der dynamische ist wie der      statische, er ist aber durch Lehreranwsenheit und Vertretungen umgeändert.
+  
+  C) Hier kann der Lehrer seinen eigenen Stundenplan sehen, der durch alle statische Stundenpläne aller Klassen entsteht.
+  
+  D) Hier kann der Lehrer überprüfen, und sehen welche Räume frei oder besetzt sind.
+
+  E) Hier kann der Lehrer die Anwseneheit aller anderer Lehrer sehen, und in welchem Raum sie gerade sind.
+      
+# Studentenbereich
+   
