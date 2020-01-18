@@ -4,7 +4,7 @@
 1. Adminkonto (PC-only)
 2. Planerkonto (PC-only)
 3. Lehrerkonto (PC und Android/iOS/Windows Phone)
-4. Studentenkonto (PC und Android/iOS/Windows Phone)
+4. Schülerkonto (PC und Android/iOS/Windows Phone)
 5. Elternteil Konto (PC und Android/iOS/Windows Phone)
 
 # Anlegung einer Schule ins System
@@ -111,15 +111,15 @@ Beinhaltet 5 Komponenten:
       auf Bild:
 
       g) Die jetzige Stunde wird per Stundenplan automatisch ausgewählt, kann aber manuell ausgewählt werden.
-      a) Noteneintragung. !vergessen: Nach dem Namen des Schülers kann der Lehrer die Durschschnitts Note des Studenten in dem Fach sehen.
+      a) Noteneintragung. !vergessen: Nach dem Namen des Schülers kann der Lehrer die Durschschnitts Note des Schüler in dem Fach sehen.
       b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
       c) Pluse/Minuse.
       d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert werden.
-      e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle    Studenten von der Klasse eingefügt werden.
+      e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Schülerkontenerstellung an jedes Fach automatisch alle    Schüler von der Klasse eingefügt werden.
       f) Verspätungen.
-      h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen.
+      h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen. Bei Noten kann man mehrere Notenkategorien machen und jeder eine Gewichtung zuweisen, wie z. B. Test (30%), Klausur (40%), Lektüre (25%) usw.. Das kann man auf dem Bild nicht sehen.
 
-      Der letze Bereich dient dazu eine Übersicht über Studenten in dem Fach zu sehen. 
+      Der letze Bereich dient dazu eine Übersicht über Schüler in dem Fach zu sehen. 
       Der Klassenlehrer kann von seiner Klasse alles sehen, wie auch Gesamtergebnisse aller Fächer.
       
   **B)** Hier kann der Lehrer, den Stundenplan von jeder Klasse sehen, den statischen, wie auch den dynamischen. Der dynamische ist wie der statische, er ist aber durch Lehreranwsenheit und Vertretungen umgeändert.
@@ -132,7 +132,7 @@ Beinhaltet 5 Komponenten:
   
   Noch weiß ich leider nicht, wie genau ein System aufbauen könnte das Automatisch die Ent-Noten ergibbt, bei FOS und anderen       Kategorien.
      
-# Studentenbereich
+# Schülerbereich
    Beinhaltet 6 Komponenten:
    
    A) Statischer Stundenplan der Klasse
