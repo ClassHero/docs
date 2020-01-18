@@ -50,27 +50,31 @@ Beinhaltet 2 Komponenten:
    
    Erstens legt der Admin eine Klasse an mit dem Parameter **Klassenbezeichnung**
 
-   1.0 Der Admin der Klasse einen Klassenlehrer zuweisen.
+   1.0 Der Admin kann der Klasse einen Klassenlehrer zuweisen.
    
    1.1 Das Schuljahr und Halbjahr werden automatisch ausgewählt, können aber umgeändert werden.
    
    1.2 Fächer kann man der Klasse zuweisen.
    
-   1.3 Schüler Konten legt man mit dem selben Prozess an, wie bei Lehrer konten. 
+   1.3 Schüler Konten legt man mit dem selben Prozess an, wie Lehrer konten. 
    
 # Planerbereich
 
 Beinhaltet 4 Komponenten:
    A) Stunden Dauer Verwaltung
    B) Raumverwaltung
+   C) Statischer Stundenplan
+   D) Vertretungen
       
       
    A)
-      Hier trägt der Planer die Stunden Zeiten ein, i.e. die erste Schulstunde beginnt um z. B. 08:00 und endet zu 08:45 usw.
-      
-      [Image]
+      Hier trägt der Planer die Stunden Zeiten ein, i.e. die erste Schulstunde beginnt um z. B. 08:00 und endet zu 08:45 usw. und kann         zwischen der 1. und 2. Schicht auswählen.
 
    B) 
       Hier werden alle Räume eingetragen die zum Unterricht verfügbar sind und haben eine Standard Bezeichnung _leer_ (normaler Raum),         oder der Planer kann spezielle Bezeichnungen erstellen, wie z. B. "PC Raum", und kann es an Räume befestigen.
    
+   C)
+      Hier wählt der Planer die Klasse aus, das Halbjahr der Klasse und ob es die gerade oder ungerade Woche ist. Dannach kann man für         eine Stunde ein Fach auswählen und den Raum.
 
+   D)
+      
