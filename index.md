@@ -85,9 +85,13 @@ Beinhaltet 5 Komponenten:
 
    **D)**
       Ich hoffe das Bild erklärt die Vertretungen. In der 2. Arten Spalte zeigt es welche inputs deaktiviert sind. Bei der Art                 "Betreuung" wird die Ersatzlehrer auswahl nur auf Lehrer bezogen, in jedem anderen Fall wählt man eigentlich Fächer (+automatisch       Fachlehrer).
+   
+   ![Vertretungen](Vertretungen.png)
       
    **E)**
       Dieses Bild sollte auch selbsterklärend sein. Man wählt drück bei einem Lehrer auf das z. B. Montag kästchen, und der Rest wird         Rechts angezeigt um die Anwesenheit an dem Tag zu verwalten. Diese Anwesenheit dient dazu um nicht alle Vertretungen manuell bei         bereich D eintragen zu müssen.
+
+   ![Lehreranwesenheit](Lehreranwesenheit.png)
       
 # Lehrerbereich
 
@@ -101,6 +105,8 @@ Beinhaltet 5 Komponenten:
    **A) Verwaltung der Fächer**
 
    In diesem Bereich hat Lehrer eine Übersicht über alle Klassen die er Unterrichtet.
+   
+   ![Subjectsmanagement](Subjectsmanagement.png)
 
       auf Bild:
 
@@ -109,7 +115,7 @@ Beinhaltet 5 Komponenten:
       b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
       c) Pluse/Minuse.
       d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert werden.
-      e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle            Studenten von der Klasse eingefügt werden.
+      e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle    Studenten von der Klasse eingefügt werden.
       f) Verspätungen.
       h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen.
 
