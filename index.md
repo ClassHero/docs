@@ -46,7 +46,7 @@ Beinhaltet 2 Komponenten:
    
    **B)**
    
-    ![ClassManager](ClassManager.png)
+   ![ClassManager](ClassManager.png)
    
    Erstens legt der Admin eine Klasse an mit dem Parameter **Klassenbezeichnung**
 
