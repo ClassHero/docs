@@ -133,4 +133,31 @@ Beinhaltet 5 Komponenten:
   Noch weiß ich leider nicht, wie genau ein System aufbauen könnte das Automatisch die Ent-Noten ergibbt, bei FOS und anderen       Kategorien.
      
 # Studentenbereich
+   Beinhaltet 6 Komponenten:
    
+   A) Statischer Stundenplan der Klasse
+   B) Dynamischer Stundenplan der Klasse (der durch Vertetungen und Lehreranwesenheit entsteht)
+   C) Noten und andere Statistiken in allen Fächern
+   D) Seine Anwesenheit in jedem Fach, und generäll
+   E) Entschuldigung senden
+
+# Elternbereich
+
+   A) Noten des Schülers
+   B) Anwesenheit des Schülers
+   C) Kann eine Termin Nachfrage zu einem Lehrer senden
+
+## Chat
+
+   ### Planer, Lehrer, Schüler haben einen Chat. Somit können sie zur jeder Zeit mit einander kommunizieren. 
+   
+   Ein Lehrer kann Nachrichten an Fächer schicken, wo automatisch jeder Schüler benachrichtigt wird. 
+   Datein können über den Chat gesendet werden, aber werden nach dem öffnen, oder nach 2 Wochen dem Versandt von der Datenbank gelöscht,    und weiterhin über den Lokale Speicher des PCs oder Smartphones geöffnet.
+   Schüler, Lehrer und Planer können sich gegenseitig kontaktieren.
+   Jede Klasse hat auch einen eigenen Chat.
+
+# Benachritigungen (dies ist eine Komponente, wie auch eine Smartphone Push-Benachritigung)
+
+   Lehrer bekommen Benachritigungen über Alle Stundenplan änderungen und Vertretungen, Entschuldigungen, Terminanfragen.
+   
+   Schüler bekommen Benachritigungen über Alle Stundenplan änderungen und Vertretungen, Noten, Stundenplan änderungen.
