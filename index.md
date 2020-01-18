@@ -46,7 +46,17 @@ Beinhaltet 2 Komponenten:
    
    **B)**
    
+    ![ClassManager](ClassManager.png)
    
+   Erstens legt der Admin eine Klasse an mit dem Parameter **Klassenbezeichnung**
+
+   1.0 Der Admin der Klasse einen Klassenlehrer zuweisen.
+   
+   1.1 Das Schuljahr und Halbjahr werden automatisch ausgewählt, können aber umgeändert werden.
+   
+   1.2 Fächer kann man der Klasse zuweisen.
+   
+   1.3 Schüler Konten legt man mit dem selben Prozess an, wie bei Lehrer konten. 
    
 # Planerbereich
 
