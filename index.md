@@ -56,7 +56,7 @@ Beinhaltet 2 Komponenten:
    
    1.2 Fächer kann man der Klasse zuweisen.
    
-   1.3 Schüler Konten legt man mit dem selben Prozess an, wie Lehrer konten. 
+   1.3 Schülerkonten legt man mit dem selben Prozess an, wie Lehrerkonten. 
    
 # Planerbereich
 
@@ -69,7 +69,7 @@ Beinhaltet 5 Komponenten:
       
       
    **A)**
-      Hier trägt der Planer die Stunden Zeiten ein, i.e. die erste Schulstunde beginnt um z. B. 08:00 und endet zu 08:45 usw. und kann         zwischen der 1. und 2. Schicht auswählen.
+      Hier trägt der Planer die Stundenzeiten ein, i.e. die erste Schulstunde beginnt um z. B. 08:00 und endet zu 08:45 usw. und kann         zwischen der 1. und 2. Schicht auswählen.
       
    ![Hours](Hours.png)
 
@@ -84,12 +84,12 @@ Beinhaltet 5 Komponenten:
    ![StaticSchedule](StaticSchedule.png)
 
    **D)**
-      Ich hoffe das Bild erklärt die Vertretungen. In der 2. Arten Spalte zeigt es welche inputs deaktiviert sind. Bei der Art                 "Betreuung" wird die Ersatzlehrer auswahl nur auf Lehrer bezogen, in jedem anderen Fall wählt man eigentlich Fächer (+automatisch       Fachlehrer).
+      Ich hoffe das Bild erklärt die Vertretungen. In der 2. Arten Spalte zeigt es welche Inputs deaktiviert sind. Bei der Art                 "Betreuung" wird die Ersatzlehrer auswahl nur auf Lehrer bezogen, in jedem anderen Fall wählt man eigentlich Fächer (+automatisch       Fachlehrer).
    
    ![Vertretungen](Vertretungen.png)
       
    **E)**
-      Dieses Bild sollte auch selbsterklärend sein. Man wählt drück bei einem Lehrer auf das z. B. Montag kästchen, und der Rest wird         Rechts angezeigt um die Anwesenheit an dem Tag zu verwalten. Diese Anwesenheit dient dazu um nicht alle Vertretungen manuell bei         bereich D eintragen zu müssen.
+      Dieses Bild sollte auch selbsterklärend sein. Man drückt bei einem Lehrer auf das z. B. Montag kästchen, und der Rest wird         Rechts angezeigt um die Anwesenheit an dem Tag zu verwalten. Diese Anwesenheit dient dazu um nicht alle Vertretungen manuell bei         bereich **D** eintragen zu müssen.
 
    ![Lehreranwesenheit](Lehreranwesenheit.png)
       
@@ -133,31 +133,32 @@ Beinhaltet 5 Komponenten:
   Noch weiß ich leider nicht, wie genau ein System aufbauen könnte das Automatisch die Ent-Noten ergibbt, bei FOS und anderen       Kategorien.
      
 # Schülerbereich
-   Beinhaltet 6 Komponenten:
+   Beinhaltet 5 Komponenten:
    
-   A) Statischer Stundenplan der Klasse
-   B) Dynamischer Stundenplan der Klasse (der durch Vertetungen und Lehreranwesenheit entsteht)
-   C) Noten und andere Statistiken in allen Fächern
-   D) Seine Anwesenheit in jedem Fach, und generäll
-   E) Entschuldigung senden
+   **A)** Statischer Stundenplan der Klasse
+   **B)** Dynamischer Stundenplan der Klasse (der durch Vertetungen und Lehreranwesenheit entsteht)
+   **C)** Noten und andere Statistiken in allen Fächern
+   **D)** Seine Anwesenheit in jedem Fach, und generäll
+   **E)** Entschuldigung senden
 
 # Elternbereich
+   Beinhaltet 3 Komponenten:
 
-   A) Noten des Schülers
-   B) Anwesenheit des Schülers
-   C) Kann eine Termin Nachfrage zu einem Lehrer senden
+   **A)** Noten des Schülers
+   **B)** Anwesenheit des Schülers
+   **C)** Kann eine Termin Nachfrage zu einem Lehrer senden
 
 ## Chat
 
    ### Planer, Lehrer, Schüler haben einen Chat. Somit können sie zur jeder Zeit mit einander kommunizieren. 
    
    Ein Lehrer kann Nachrichten an Fächer schicken, wo automatisch jeder Schüler benachrichtigt wird. 
-   Datein können über den Chat gesendet werden, aber werden nach dem öffnen, oder nach 2 Wochen dem Versandt von der Datenbank gelöscht,    und weiterhin über den Lokale Speicher des PCs oder Smartphones geöffnet.
+   Datein können über den Chat gesendet werden, aber werden nach dem öffnen, oder nach 2 Wochen nach dem Versandt von der Datenbank gelöscht, und weiterhin über den lokalen Speicher des PCs oder Smartphones geöffnet.
    Schüler, Lehrer und Planer können sich gegenseitig kontaktieren.
    Jede Klasse hat auch einen eigenen Chat.
 
 # Benachritigungen (dies ist eine Komponente, wie auch eine Smartphone Push-Benachritigung)
 
-   Lehrer bekommen Benachritigungen über Alle Stundenplan änderungen und Vertretungen, Entschuldigungen, Terminanfragen.
+   Lehrer bekommen Benachritigungen über alle Stundenplan Änderungen und Vertretungen, Entschuldigungen, Terminanfragen.
    
-   Schüler bekommen Benachritigungen über Alle Stundenplan änderungen und Vertretungen, Noten, Stundenplan änderungen.
+   Schüler bekommen Benachritigungen über alle Stundenplan Änderungen und Vertretungen, Noten.
