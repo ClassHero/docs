@@ -108,7 +108,7 @@ Beinhaltet 5 Komponenten:
       a) Noteneintragung.
       b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
       c) Pluse/Minuse.
-      d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert              werden.
+      d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert    werden.
       e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle                  Studenten von der Klasse eingefügt werden.
       f) Verspätungen.
       h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei          der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen.
