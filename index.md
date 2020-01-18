@@ -101,7 +101,7 @@ Beinhaltet 5 Komponenten:
    **A) Verwaltung der Fächer**
 
    In diesem Bereich hat Lehrer eine Übersicht über alle Klassen die er Unterrichtet.
-
+``
    auf Bild:
 
    g) Die jetzige Stunde wird per Stundenplan automatisch ausgewählt, kann aber manuell ausgewählt werden.
@@ -123,6 +123,6 @@ Beinhaltet 5 Komponenten:
   **D)** Hier kann der Lehrer überprüfen, und sehen welche Räume frei oder besetzt sind.
 
   **E)** Hier kann der Lehrer die Anwseneheit aller anderer Lehrer sehen, und in welchem Raum sie gerade sind.
-      
+``      
 # Studentenbereich
    
