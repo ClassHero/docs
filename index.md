@@ -69,12 +69,18 @@ Beinhaltet 4 Komponenten:
       
    A)
       Hier trägt der Planer die Stunden Zeiten ein, i.e. die erste Schulstunde beginnt um z. B. 08:00 und endet zu 08:45 usw. und kann         zwischen der 1. und 2. Schicht auswählen.
+      
+   ![Hours](Hours.png)
 
    B) 
       Hier werden alle Räume eingetragen die zum Unterricht verfügbar sind und haben eine Standard Bezeichnung _leer_ (normaler Raum),         oder der Planer kann spezielle Bezeichnungen erstellen, wie z. B. "PC Raum", und kann es an Räume befestigen.
+      
+   ![Rooms](Rooms.png)
    
    C)
       Hier wählt der Planer die Klasse aus, das Halbjahr der Klasse und ob es die gerade oder ungerade Woche ist. Dannach kann man für         eine Stunde ein Fach auswählen und den Raum.
+      
+   ![StaticSchedule](StaticSchedule.png)
 
    D)
       
