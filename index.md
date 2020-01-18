@@ -101,20 +101,20 @@ Beinhaltet 5 Komponenten:
    **A) Verwaltung der Fächer**
 
    In diesem Bereich hat Lehrer eine Übersicht über alle Klassen die er Unterrichtet.
-``
-   auf Bild:
 
-   g) Die jetzige Stunde wird per Stundenplan automatisch ausgewählt, kann aber manuell ausgewählt werden.
-   a) Noteneintragung.
-   b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
-   c) Pluse/Minuse.
-   d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert              werden.
-   e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle                  Studenten von der Klasse eingefügt werden.
-   f) Verspätungen.
-   h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei          der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen.
+      auf Bild:
 
-   Der letze Bereich dient dazu eine Übersicht über Studenten in dem Fach zu sehen. 
-   Der Klassenlehrer kann von seiner Klasse alles sehen, wie auch Gesamtergebnisse aller Fächer.
+      g) Die jetzige Stunde wird per Stundenplan automatisch ausgewählt, kann aber manuell ausgewählt werden.
+      a) Noteneintragung.
+      b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
+      c) Pluse/Minuse.
+      d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert              werden.
+      e) Schüler vom Fach entfernen. Das kann man machen, weil bei der Studentenkontenerstellung an jedes Fach automatisch alle                  Studenten von der Klasse eingefügt werden.
+      f) Verspätungen.
+      h) Notengewichtung: Jeder Lehrer kann anpassen, wie viel Noten, Pluse/Minuse, Meldungen die Gesamtnote des Fachs beinflussen. Bei          der Änderung bei einem Schüler, wird es automatisch für jeden Schüler in dem Fach aufgenommen.
+
+      Der letze Bereich dient dazu eine Übersicht über Studenten in dem Fach zu sehen. 
+      Der Klassenlehrer kann von seiner Klasse alles sehen, wie auch Gesamtergebnisse aller Fächer.
       
   **B)** Hier kann der Lehrer, den Stundenplan von jeder Klasse sehen, den statischen, wie auch den dynamischen. Der dynamische ist wie der statische, er ist aber durch Lehreranwsenheit und Vertretungen umgeändert.
   
@@ -123,6 +123,6 @@ Beinhaltet 5 Komponenten:
   **D)** Hier kann der Lehrer überprüfen, und sehen welche Räume frei oder besetzt sind.
 
   **E)** Hier kann der Lehrer die Anwseneheit aller anderer Lehrer sehen, und in welchem Raum sie gerade sind.
-``      
+     
 # Studentenbereich
    
