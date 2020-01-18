@@ -111,7 +111,7 @@ Beinhaltet 5 Komponenten:
       auf Bild:
 
       g) Die jetzige Stunde wird per Stundenplan automatisch ausgewählt, kann aber manuell ausgewählt werden.
-      a) Noteneintragung.
+      a) Noteneintragung. !vergessen: Nach dem Namen des Schülers kann der Lehrer die Durschschnitts Note des Studenten in dem Fach sehen.
       b) Notizeneintragung: Können als Positiv, Negativ oder Neutral kategorisch eingetragen werden.
       c) Pluse/Minuse.
       d) Anwesenheit für die Stunde. Wenn es sich um eine Doppelstunde handelt, wird es automatisch übernommen, kann aber umgeändert werden.
