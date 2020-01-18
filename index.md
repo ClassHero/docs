@@ -129,6 +129,8 @@ Beinhaltet 5 Komponenten:
   **D)** Hier kann der Lehrer überprüfen, und sehen welche Räume frei oder besetzt sind.
 
   **E)** Hier kann der Lehrer die Anwseneheit aller anderer Lehrer sehen, und in welchem Raum sie gerade sind.
+  
+  Noch weiß ich leider nicht, wie genau ein System aufbauen könnte das Automatisch die Ent-Noten ergibbt, bei FOS und anderen       Kategorien.
      
 # Studentenbereich
    
